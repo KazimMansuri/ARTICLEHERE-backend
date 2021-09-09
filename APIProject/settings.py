@@ -61,7 +61,8 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     
-    "http://localhost:3000",
+    'https://articlehere.herokuapp.com',
+    'http://articlehere.herokuapp.com',
     
 ]
 
